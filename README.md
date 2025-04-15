@@ -59,6 +59,9 @@ student-management-system/ ├── src/main/java/com/yourname/sms/ │ ├─�
 📸 Screenshots
 Add screenshots here of Login Page, Dashboard, Student Table, etc.
 
+![Screenshot 2025-04-13 175303](https://github.com/user-attachments/assets/cfbb705b-f732-4987-b469-70ff8ad32418)
+
+
 
 
 
