@@ -53,7 +53,7 @@ student-management-system/ ├── src/main/java/com/yourname/sms/ │ ├─�
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/student-management-system.git
+   git clone https://github.com/Ritikvishal/STUDENT-MANAGEMENT-SYSTEM-SMS-/tree/main
 ![Screenshot 2025-04-13 175303](https://github.com/user-attachments/assets/672d34be-0eba-405e-a3cf-dbdafaaa22fa)
 ![Screenshot 2025-04-13 175512](https://github.com/user-attachments/assets/c9a5b720-de57-45c5-bca8-55b0b51c9470)
 
